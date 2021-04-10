@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oshop-mk": {
+      "hosting": {
+        "oshop": [
+          "oshop-mk"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-mk"
+  }
+}
